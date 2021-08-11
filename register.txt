@@ -1,0 +1,3 @@
+White: oldPosition: (6, B) / newPosition: (5, B)  => Format(row, column)
+Black: oldPosition: (3, B) / newPosition: (4, B)  => Format(row, column)
+Black: oldPosition: (5, B) / newPosition: (3, B)  => Format(row, column)
